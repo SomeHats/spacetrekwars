@@ -18,8 +18,8 @@
 
 (defrand spaceship-a
   "The Death"
-  "The Millenial"
-  "The Millenium"
+  "The Millennial"
+  "The Millennium"
   "The USS"
   "a Star"
   "a TIE"
@@ -260,7 +260,7 @@
   "accidentally"
   "deliberately"
   "dramatically"
-  "mischieviuosly"
+  "mischievously"
   "mistakenly"
   "naughtily")
 
